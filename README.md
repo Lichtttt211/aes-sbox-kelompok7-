@@ -22,12 +22,3 @@
 - **Konstanta $C$:** `0xEE` (`238`)
 - **Metrik:** Balance = Ya · Bijective = Ya · NL = `112` · SAC = `0.50000` (dev `0.01562`) · BIC-NL = `112` · BIC-SAC = `0.50000` (dev `0.00446`) · LAP (bias) = `0.0625` · DAP = `0.015625` · Skor $S = 0.00000$ · Skor $SV = 16.00000$ · FP = `0` · OFP = `0` · Siklus = `1 (256)`
 
-## Menjalankan & Deploy
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
-
-- **Colab:** Unggah `Kelompok_7_Proyek_Akhir_Kriptografi_2Model.ipynb` → klik **Runtime → Run all**.
-- **Streamlit Cloud:** Unggah isi folder ini ke repository GitHub → Deploy dengan main file `app.py`.
